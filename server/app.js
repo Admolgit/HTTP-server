@@ -1,4 +1,3 @@
-// import database from './database.json';
 const http = require('http');
 const fs = require('fs');
 
